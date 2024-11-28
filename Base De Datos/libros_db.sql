@@ -18,7 +18,7 @@ CREATE TABLE libros_db (
     id_autor INT,
     id_editorial INT,
     formato VARCHAR(50),
-    precio DECIMAL(10, 2),
+    precio INT,
     FOREIGN KEY (id_autor) REFERENCES autores(id_autor),
     FOREIGN KEY (id_editorial) REFERENCES editoriales(id_editorial)
 );
