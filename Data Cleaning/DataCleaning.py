@@ -1,16 +1,7 @@
 import pandas as pd
-import os
 
-df = pd.read_csv(r"C:\Users\AlumnoFCA\Desktop\libros.csv")
 
-if not os.path.exists('datasets'):
-    os.makedirs('datasets')
-
-df.to_csv('datasets/libros.csv', index=False)
-
-print("GUARDADO EN 'datasets'.")
-
-archivo_csv = './datasets/libros.csv'
+archivo_csv = "datasets/libros.csv"
 df = pd.read_csv(archivo_csv)
 
 #VERIFICAR DATOS
@@ -44,11 +35,11 @@ df = df.rename(columns={'titulo': 'Nombre_libro',
                         "precio": "Precio" })
 
 #GUARDAR EL DATA FRAME ACTUALIZADO Y YA LIMPIESITO
-ruta_salida = './datasets/libros_limpios.csv'
+ruta_salida = "datasets/libros_limpios.csv"
 df.to_csv(ruta_salida, index=False)
 
 
-print("Limpiezitos y guardaditos'./datasets/libros_limpios.csv'")
+print("Limpiezitos y guardaditos 'datasets/libros_limpios.csv'")
 
 
 
