@@ -1,6 +1,6 @@
-CREATE DATABASE libros_db;
+CREATE DATABASE libros;
 
-use libros_db;
+use libros;
 
 CREATE TABLE autores (
     id_autor INT AUTO_INCREMENT PRIMARY KEY,
@@ -12,7 +12,7 @@ CREATE TABLE editoriales (
     nombre_editorial VARCHAR(255) NOT NULL
 );
 
-CREATE TABLE libros_db (
+CREATE TABLE libros (
     id_libro INT AUTO_INCREMENT PRIMARY KEY,
     titulo VARCHAR(255) NOT NULL,
     id_autor INT,
