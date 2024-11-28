@@ -1,6 +1,6 @@
-CREATE DATABASE libros;
+CREATE DATABASE libros_db;
 
-use libros;
+use libros_db;
 
 CREATE TABLE autores (
     id_autor INT AUTO_INCREMENT PRIMARY KEY,
