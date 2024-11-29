@@ -1,7 +1,7 @@
 
 from welcome_libros import welcome
 #from dashboard_uno import dashboard
-#from dashboard_2 import dashboard as d2
+from dashboard_2 import dashboard as d2
 #from dashboard_3 import dashboard as d3
 import dash_bootstrap_components as dbc
 from dash import Input, Output, dcc, html, Dash, callback
@@ -18,7 +18,7 @@ def render_page_content(pathname):
         #return dashboard()
         print("dashboard1")
     elif pathname == "/dash-2":
-        # return d2()
+        return d2()
         print("dashboard2")
     elif pathname == "/dash-3":
         # return d3()
