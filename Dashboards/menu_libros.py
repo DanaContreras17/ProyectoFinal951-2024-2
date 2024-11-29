@@ -1,6 +1,6 @@
 
 from welcome_libros import welcome
-from Dashboard_uno import dashboard as d1
+#from dashboard_uno import dashboard
 #from dashboard_2 import dashboard as d2
 #from dashboard_3 import dashboard as d3
 import dash_bootstrap_components as dbc
@@ -15,7 +15,8 @@ def render_page_content(pathname):
         #en vez de esto, mandariamos a llmar las funciones de todas las graficas y eso
         return welcome()
     elif pathname == "/dash-1":
-        return d1()
+        #return dashboard()
+        print("dashboard1")
     elif pathname == "/dash-2":
         # return d2()
         print("dashboard2")
