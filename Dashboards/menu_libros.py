@@ -1,6 +1,6 @@
 
 from welcome_libros import welcome
-from dashboard_1 import dashboard as d1
+from dashboard_uno import dashboard as d1
 from dashboard_2 import dashboard as d2
 #from dashboard_3 import dashboard as d3
 import dash_bootstrap_components as dbc
