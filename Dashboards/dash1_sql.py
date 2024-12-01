@@ -10,7 +10,7 @@ def obtener_datos_mysql():
     try:
 
         conexion = connect(host="localhost", port="3306", user="root",
-                           password="MezaG2004", database="libros_db")
+                           password="12345678", database="libros_db")
 
         cursor = conexion.cursor()
 
