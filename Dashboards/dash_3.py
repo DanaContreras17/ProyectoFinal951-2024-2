@@ -107,3 +107,54 @@ def filtros(df):
     ], width=4)
 
     return dropdown_formato, dropdown_autor
+
+
+def dashboard():
+    fig_formatos = grafico_formatos(libros_df)
+    fig_autores = grafico_autores(conteo_autores)
+    fig_precio_autor = grafico_precio_vs_libros(libros_df)
+
+    dropdown_formato, dropdown_autor = filtros(libros_df)
+
+    layout = dbc.Container([
+        html.H3("Dashboard de Análisis de Formatos y Autores", style={"textAlign": "center", "color": "white"}),
+        dbc.Row([
+            dropdown_formato,
+            dropdown_autor,
+        ], className="mb-4"),
+        dbc.Row([
+            dbc.Col([dcc.Graph(id="grafico-formatos", figure=fig_formatos)], width=6),
+            dbc.Col([dcc.Graph(id="grafico-autores", figure=fig_autores)], width=6),
+        ], className="mb-5"),
+        dbc.Row([
+            dbc.Col([dcc.Graph(id="grafico-precio-autor", figure=fig_precio_autor)], width=12),
+        ], className="mb-5"),
+
+    ], style={"backgroundColor": "#8e44ad", "padding": "20px"})
+
+    return layout
+
+
+@callback(
+    [Output("grafico-formatos", "figure"),
+     Output("grafico-autores", "figure"),
+     Output("grafico-precio-autor", "figure")],
+    [Input("formato-dropdown", "value"),
+     Input("autor-dropdown", "value")]
+)
+def update_graph(formatos_seleccionados, autores_seleccionados):
+    df_filtrado_formatos = libros_df[libros_df["Formato"].isin(formatos_seleccionados)] if formatos_seleccionados else libros_df
+    df_filtrado_autores = conteo_autores[conteo_autores["Nombre_autor"].isin(autores_seleccionados)] if autores_seleccionados else conteo_autores
+    df_filtrado_precio_autor = libros_df[libros_df["Formato"].isin(formatos_seleccionados)] if formatos_seleccionados else libros_df
+
+    fig_formatos = grafico_formatos(df_filtrado_formatos)
+    fig_autores = grafico_autores(df_filtrado_autores)
+    fig_precio_autor = grafico_precio_vs_libros(df_filtrado_precio_autor)
+
+    return fig_formatos, fig_autores, fig_precio_autor
+
+
+if __name__ == "__main__":
+    app = dash.Dash(__name__, external_stylesheets=[dbc.themes.DARKLY])
+    app.layout = dashboard()
+    app.run_server(debug=True)
