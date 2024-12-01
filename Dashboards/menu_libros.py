@@ -20,7 +20,6 @@ def render_page_content(pathname):
         return d2()
     elif pathname == "/dash-3":
         return d3()
-        return html.P("Oh cool, this is page 3!")
     # If the user tries to reach a different page, return a 404 message
     return html.Div(
         [
