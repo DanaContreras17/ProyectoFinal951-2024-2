@@ -69,4 +69,5 @@ if __name__ == "__main__":
     app = Dash(external_stylesheets=[dbc.themes.LUX],
                suppress_callback_exceptions=True)
     app.layout = menu_dashboard()
+    callbacks_d1(app)
     app.run(debug=True)
