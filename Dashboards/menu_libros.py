@@ -1,8 +1,8 @@
 
 from welcome_libros import welcome
-from dashboard_uno import dashboard as d1
-from dashboard_2 import dashboard as d2
-from dashboard_3 import dashboard as d3
+from dash1_sql import dashboard as d1
+from dash2_sql import dashboard as d2
+from dash_3 import dashboard as d3
 import dash_bootstrap_components as dbc
 from dash import Input, Output, dcc, html, Dash, callback
 
