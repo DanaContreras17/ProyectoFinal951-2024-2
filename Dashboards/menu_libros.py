@@ -1,6 +1,6 @@
 
 from welcome_libros import welcome
-from dash1_sql import dashboard as d1
+from dash1_sql import dashboard as d1, callbacks_d1
 from dash2_sql import dashboard as d2
 from dash_3 import dashboard as d3
 import dash_bootstrap_components as dbc
