@@ -25,7 +25,7 @@ def scraping(busqueda, max_results):
 
     data = {"titulo":[], "autor":[], "editorial":[], "formato":[], "precio":[]}
     while len(data["titulo"]) < max_results:
-        time.sleep(15)
+        time.sleep(35)
         #navegador.save_screenshot(f"imagenes/{busqueda}_{pag}.png")
         #Se necesita el html para pasarlo a beautiful soup
         soup = BeautifulSoup(navegador.page_source, "html5lib")
@@ -84,14 +84,15 @@ def scraping(busqueda, max_results):
             #vtex-button bw1 ba fw5 v-mid relative pa0 lh-solid br2 min-h-small t-action--small bg-action-primary b--action-primary c-on-action-primary hover-bg-action-primary hover-b--action-primary hover-c-on-action-primary pointer inline-flex items-center no-underline
             #vtex-button__label flex items-center justify-center h-100 ph5
             mostrar_mas.click()
-            time.sleep(5)
+            time.sleep(8)
         except:
             print("No se pudo encontrar o hacer clic en el botón 'Mostrar más'. Se han cargado todos los resultados.")
             break
     navegador.quit()
 
     df = pd.DataFrame(data)
-    df.to_csv("datasets/libros.csv")
+    df.to_csv("WebScraping/datasets/libros.csv")
+    df.to_csv("DataFrames/libros.csv")
 
 
 if __name__=="__main__":

@@ -51,4 +51,5 @@ def insertar_db(archivo_csv):
 
 
 if __name__ == "__main__":
-    insertar_db("datasets/libros_limpios.csv")
+    archivo_csv = "../DataFrames/libros_limpios.csv"
+    insertar_db(archivo_csv)

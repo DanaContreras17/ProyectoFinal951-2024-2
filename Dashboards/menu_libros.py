@@ -1,11 +1,14 @@
 
-from welcome_libros import welcome
-from dash1_sql import dashboard as d1, callbacks_d1
-from dash2_sql import dashboard as d2
-from dash_3 import dashboard as d3
+from Dashboards.welcome_libros import welcome
+from Dashboards.dash1_sql import dashboard as d1, callbacks_d1
+from Dashboards.dash2_sql import dashboard as d2
+from Dashboards.dash_3 import dashboard as d3
 import dash_bootstrap_components as dbc
 from dash import Input, Output, dcc, html, Dash, callback
 
+
+app = Dash(external_stylesheets=[dbc.themes.LUX],
+               suppress_callback_exceptions=True)
 
 @callback(Output("page-content", "children"), #lo va a agregar como un hijo "children"
           [Input("url", "pathname")])
@@ -62,11 +65,13 @@ def menu_dashboard():
 
     return html.Div([dcc.Location(id="url"), sidebar, content])
 
+app.layout = menu_dashboard()
+callbacks_d1(app)
 
 if __name__ == "__main__":
     # TEMAS
-    app = Dash(external_stylesheets=[dbc.themes.LUX],
-               suppress_callback_exceptions=True)
-    app.layout = menu_dashboard()
-    callbacks_d1(app)
-    app.run(debug=True)
+    #app = Dash(external_stylesheets=[dbc.themes.LUX],
+               #suppress_callback_exceptions=True)
+    #app.layout = menu_dashboard()
+    #callbacks_d1(app)
+    app.run(debug=True, use_reloader=False)
