@@ -30,7 +30,7 @@ def ejecutar_dash():
 
 def menu():
     while True:
-        op = int(input("Menu de procesos del proyecto\n"
+        op = int(input("\nMenu de procesos del proyecto\n"
                                      "\n1)Web Scraping\n2)Data Cleaning\n3)Insercion a la Base de Datos"
                                      "\n4)Visualizacion de dashboards\n5)Salir\nIngresa:"))
         if op == 1:
@@ -50,14 +50,15 @@ def menu():
                 hilo_dash = threading.Thread(target=ejecutar_dash)
                 hilo_dash.daemon = True
                 hilo_dash.start()
-                time.sleep(3)
+                time.sleep(5)
             else:
-                print("Primero debes insertar los datos en la base de datos para poder ver los dashboards")
+                print("\nPrimero debes insertar los datos en la base de datos para poder ver los dashboards."
+                      "\nLa base de datos esta en la carpeta 'BaseDeDatos' con el nombre de 'libros_db.sql' para descargarla.")
         elif op == 5:
-            print("Hasta luego y lindo dia:)")
+            print("\nHasta luego y lindo dia:)")
             break
         else:
-            print("No se encontro ninguna de las opciones")
+            print("\nNo se encontro ninguna de las opciones")
 
 
 
