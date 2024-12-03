@@ -49,9 +49,8 @@ Al correr el archivo hay que ingresar una de las opciones para ver cada proceso.
 ProyectoFinal951-2024-2
 
 - BaseDeDatos.
-  
 - Datasets.
-- Libros_limpios.csv (archivo predeterminado).
+  - Libros_limpios.csv (archivo predeterminado).
 - Conexion_mysql.py (archivo de base).
 - importacion_csv.py (archivo para pruebas).
 - insercion_db.py (codigo para la insercion a la BD).
@@ -61,11 +60,11 @@ ProyectoFinal951-2024-2
 Dashboards
 
 - assets.
-- css.
-- Custom.css (archivo con los estilos personalizados para los dashboards).
-- Imagenes (directorio en donde se encuentran las imagenes que usamos para el Dash.
+  - css.
+    - Custom.css (archivo con los estilos personalizados para los dashboards).
+  - Imagenes (directorio en donde se encuentran las imagenes que usamos para el Dash.
 - Datasets.
-- libros_limpios.csv (archivo predeterminado).
+  - libros_limpios.csv (archivo predeterminado).
 - dash1_sql.py
 - dash2_sql.py
 - dash3.py
@@ -75,7 +74,7 @@ Dashboards
 DataCleaning
 
 - Datasets.
-- libros.csv (archivo predeterminado).
+  - libros.csv (archivo predeterminado).
 - DataCleaning.py (codigo para la limpieza de datos).
 
 DataFrames
