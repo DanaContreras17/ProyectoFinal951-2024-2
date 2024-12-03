@@ -85,7 +85,7 @@ DataFrames
 WebScraping
 
 - Datasets.
-- libros.csv (archivo predeterminado)
+  - libros.csv (archivo predeterminado)
 - libros.py (codigo para realizar el web scraping)
 - main.py (archivo principal que conecta todos los módulos y permite interactuar con el proyecto a través de un menú.)
 - README.md (archivo de documentacion).
