@@ -1,0 +1,394 @@
+Unnamed: 0,Nombre_libro,Nombre_autor,Editorial,Formato,Precio
+0,El libro de Bill ,Alex Hirsch,Planeta,tapa dura,348
+1,Yo nunca vi televisión ,31 minutos,Planeta Infantil México,tapa blanda,148
+2,Hábitos atómicos TD ,James Clear,Paidós,tapa dura,459
+3,El invencible verano de Liliana ,Cristina Rivera Garza,Literatura Random House,Multiformato,369
+4,¡Gracias! ,Andrés Manuel López Obrador,Planeta México,tapa blanda,298
+5,La autobiografía no autorizada de Tulio Triviño ,31 minutos,Planeta Infantil México,tapa blanda,148
+6,Fisco Agenda 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,356
+7,Este dolor no es mío. Identifica y resuelve los traumas familiares heredados. ,Mark Wolynn,Gaia ediciones,tapa blanda,395
+8,Hábitos atómicos ,James Clear,Paidós,tapa blanda,399
+9,El libro de Bill ,Alex Hirsch,Planeta,tapa dura,348
+10,Yo nunca vi televisión ,31 minutos,Planeta Infantil México,tapa blanda,148
+11,Hábitos atómicos TD ,James Clear,Paidós,tapa dura,459
+12,El invencible verano de Liliana ,Cristina Rivera Garza,Literatura Random House,Multiformato,369
+13,¡Gracias! ,Andrés Manuel López Obrador,Planeta México,tapa blanda,298
+14,La autobiografía no autorizada de Tulio Triviño ,31 minutos,Planeta Infantil México,tapa blanda,148
+15,Fisco Agenda 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,356
+16,Este dolor no es mío. Identifica y resuelve los traumas familiares heredados. ,Mark Wolynn,Gaia ediciones,tapa blanda,395
+17,Hábitos atómicos ,James Clear,Paidós,tapa blanda,399
+18,Matemáticas 2. Revuela primaria ,SM de Ediciones,SM,tapa blanda,799
+19,La biblioteca de la medianoche ,Matt Haig,AdN,tapa blanda,361
+20,MEDITACIONES ,Marco Aurelio,Gandhi editores,tapa dura,249
+21,Ya te cargó el retiro ,Eduardo Rosas,Grijalbo,tapa blanda,329
+22,"Dinastías: Dos familias, una nación ",Ramón Alberto Garza,Planeta México,tapa blanda,348
+23,La ciudad y sus muros inciertos ,Haruki Murakami,Tusquets México,Multiformato,398
+24,Un lugar soleado para gente sombría ,Mariana Enriquez,Anagrama Océano,tapa blanda,293
+25,DEJA DE SER TU ,Joe Dispenza,Urano,tapa blanda,370
+27,Las mujeres que aman demasiado ,Robin Norwood,B de bolsillo,Multiformato,299
+28,EL SUTIL ARTE DE QUE TE IMPORTE UN CARAJO 2A. ED. ,Mark Manson,HarperCollins,tapa blanda,222
+29,Relatos de la noche ,Uriel Reyes,Suma,Multiformato,229
+30,Alejandra Pizarnik. Poesía completa ,Alejandra Pizarnik,Lumen,tapa blanda,469
+31,EL DUQUE Y YO: BRIDGERTON 1 ,Julia Quinn,Titania,tapa blanda,340
+32,Romper el círculo (It Ends with Us) (Tie-In) ,Colleen Hoover,Planeta México,tapa blanda,348
+33,El libro de Bill ,Alex Hirsch,Planeta,tapa dura,348
+34,Yo nunca vi televisión ,31 minutos,Planeta Infantil México,tapa blanda,148
+35,Hábitos atómicos TD ,James Clear,Paidós,tapa dura,459
+36,El invencible verano de Liliana ,Cristina Rivera Garza,Literatura Random House,Multiformato,369
+37,¡Gracias! ,Andrés Manuel López Obrador,Planeta México,tapa blanda,298
+38,La autobiografía no autorizada de Tulio Triviño ,31 minutos,Planeta Infantil México,tapa blanda,148
+39,Fisco Agenda 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,356
+40,Este dolor no es mío. Identifica y resuelve los traumas familiares heredados. ,Mark Wolynn,Gaia ediciones,tapa blanda,395
+41,Hábitos atómicos ,James Clear,Paidós,tapa blanda,399
+42,Matemáticas 2. Revuela primaria ,SM de Ediciones,SM,tapa blanda,799
+43,La biblioteca de la medianoche ,Matt Haig,AdN,tapa blanda,361
+44,MEDITACIONES ,Marco Aurelio,Gandhi editores,tapa dura,249
+45,Ya te cargó el retiro ,Eduardo Rosas,Grijalbo,tapa blanda,329
+46,"Dinastías: Dos familias, una nación ",Ramón Alberto Garza,Planeta México,tapa blanda,348
+47,La ciudad y sus muros inciertos ,Haruki Murakami,Tusquets México,Multiformato,398
+48,Un lugar soleado para gente sombría ,Mariana Enriquez,Anagrama Océano,tapa blanda,293
+49,DEJA DE SER TU ,Joe Dispenza,Urano,tapa blanda,370
+51,Las mujeres que aman demasiado ,Robin Norwood,B de bolsillo,Multiformato,299
+52,EL SUTIL ARTE DE QUE TE IMPORTE UN CARAJO 2A. ED. ,Mark Manson,HarperCollins,tapa blanda,222
+53,Relatos de la noche ,Uriel Reyes,Suma,Multiformato,229
+54,Alejandra Pizarnik. Poesía completa ,Alejandra Pizarnik,Lumen,tapa blanda,469
+55,EL DUQUE Y YO: BRIDGERTON 1 ,Julia Quinn,Titania,tapa blanda,340
+56,Romper el círculo (It Ends with Us) (Tie-In) ,Colleen Hoover,Planeta México,tapa blanda,348
+57,Ejercicios Matemáticos 4 ,Varios autores,Larousse,tapa blanda,53
+58,Las cadenas del rey ,Karine Bernal Lobo,Planeta México,tapa blanda,398
+59,El mito de Sísifo ,Albert Camus,Debolsillo,tapa blanda,149
+60,El derechairo que vendió su ferrari ,Jairo Calixto Albarrán,Aguilar,tapa blanda,249
+61,Estrellas De Vainilla ,Aleida Ocegueda,El Naranjo,tapa blanda,122
+62,Cuando no queden más estrellas que contar ,María Martínez,Crossbooks,tapa blanda,398
+63,"Si lo crees, lo creas ",Brian Tracy,Debolsillo,tapa blanda,229
+64,El principito ,Antoine de Saint-Exupéry,Gandhi editores,tapa dura,199
+65,La teoría sintérgica ,Jacobo Grinberg-Zylberbaum,Debolsillo,tapa blanda,139
+66,El pequeño libro de la realidad ,Odin Dupeyron,Disidente,tapa blanda,396
+67,Agenda Mercantil 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,335
+68,Ejercicios Matemáticos 5 ,Varios autores,Larousse,tapa blanda,53
+69,La paleta perfecta para diseño gráfico e ilustración ,Sara Caldas,Promopress,tapa blanda,549
+70,Dios. La ciencia. Las pruebas. ,Michel Yves Bollore,Oceano,tapa blanda,395
+71,LOS SIETE MARIDOS DE EVELYN HUGO ,Taylor Jenkins Reid,Umbriel editores,tapa blanda,395
+72,El libro de Bill ,Alex Hirsch,Planeta,tapa dura,348
+73,Yo nunca vi televisión ,31 minutos,Planeta Infantil México,tapa blanda,148
+74,Hábitos atómicos TD ,James Clear,Paidós,tapa dura,459
+75,El invencible verano de Liliana ,Cristina Rivera Garza,Literatura Random House,Multiformato,369
+76,¡Gracias! ,Andrés Manuel López Obrador,Planeta México,tapa blanda,298
+77,La autobiografía no autorizada de Tulio Triviño ,31 minutos,Planeta Infantil México,tapa blanda,148
+78,Fisco Agenda 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,356
+79,Este dolor no es mío. Identifica y resuelve los traumas familiares heredados. ,Mark Wolynn,Gaia ediciones,tapa blanda,395
+80,Hábitos atómicos ,James Clear,Paidós,tapa blanda,399
+81,Matemáticas 2. Revuela primaria ,SM de Ediciones,SM,tapa blanda,799
+82,La biblioteca de la medianoche ,Matt Haig,AdN,tapa blanda,361
+83,MEDITACIONES ,Marco Aurelio,Gandhi editores,tapa dura,249
+84,Ya te cargó el retiro ,Eduardo Rosas,Grijalbo,tapa blanda,329
+85,"Dinastías: Dos familias, una nación ",Ramón Alberto Garza,Planeta México,tapa blanda,348
+86,La ciudad y sus muros inciertos ,Haruki Murakami,Tusquets México,Multiformato,398
+87,Un lugar soleado para gente sombría ,Mariana Enriquez,Anagrama Océano,tapa blanda,293
+88,DEJA DE SER TU ,Joe Dispenza,Urano,tapa blanda,370
+90,Las mujeres que aman demasiado ,Robin Norwood,B de bolsillo,Multiformato,299
+91,EL SUTIL ARTE DE QUE TE IMPORTE UN CARAJO 2A. ED. ,Mark Manson,HarperCollins,tapa blanda,222
+92,Relatos de la noche ,Uriel Reyes,Suma,Multiformato,229
+93,Alejandra Pizarnik. Poesía completa ,Alejandra Pizarnik,Lumen,tapa blanda,469
+94,EL DUQUE Y YO: BRIDGERTON 1 ,Julia Quinn,Titania,tapa blanda,340
+95,Romper el círculo (It Ends with Us) (Tie-In) ,Colleen Hoover,Planeta México,tapa blanda,348
+96,Ejercicios Matemáticos 4 ,Varios autores,Larousse,tapa blanda,53
+97,Las cadenas del rey ,Karine Bernal Lobo,Planeta México,tapa blanda,398
+98,El mito de Sísifo ,Albert Camus,Debolsillo,tapa blanda,149
+99,El derechairo que vendió su ferrari ,Jairo Calixto Albarrán,Aguilar,tapa blanda,249
+100,Estrellas De Vainilla ,Aleida Ocegueda,El Naranjo,tapa blanda,122
+101,Cuando no queden más estrellas que contar ,María Martínez,Crossbooks,tapa blanda,398
+102,"Si lo crees, lo creas ",Brian Tracy,Debolsillo,tapa blanda,229
+103,El principito ,Antoine de Saint-Exupéry,Gandhi editores,tapa dura,199
+104,La teoría sintérgica ,Jacobo Grinberg-Zylberbaum,Debolsillo,tapa blanda,139
+105,El pequeño libro de la realidad ,Odin Dupeyron,Disidente,tapa blanda,396
+106,Agenda Mercantil 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,335
+107,Ejercicios Matemáticos 5 ,Varios autores,Larousse,tapa blanda,53
+108,La paleta perfecta para diseño gráfico e ilustración ,Sara Caldas,Promopress,tapa blanda,549
+109,Dios. La ciencia. Las pruebas. ,Michel Yves Bollore,Oceano,tapa blanda,395
+110,LOS SIETE MARIDOS DE EVELYN HUGO ,Taylor Jenkins Reid,Umbriel editores,tapa blanda,395
+111,Cuentos gatunos ,Varios Autores,EDICIONES GANDHI,tapa dura,229
+112,Guía práctica para el examen de ingreso a la universidad ,Ana Luisa Montañez Colín,Pearson,tapa blanda,780
+113,Sapiens - SAPIENS ,Yuval Noah Harari,Debolsillo,tapa blanda,339
+114,La paciente silenciosa ,Alex Michaelides,Alfaguara,Multiformato,439
+115,Ejercicios de Ortografía 3 primaria ,Varios autores,Larousse,tapa blanda,52
+116,Terapia para llevar ,Ana Pérez,Montena,tapa blanda,289
+117,No te creas todo lo que piensas ,Joseph Nguyen,Aguilar Fontanar,Multiformato,199
+118,SEDUCIENDO A MR: BRIDGERTON : BRIDGERTON 4 ,Julia Quinn,Titania,tapa blanda,345
+119,La reina de espadas ,Jazmina Barrera,Lumen,Multiformato,319
+120,Mis días en la librería Morisaki ,Satoshi Yagisawa,Plata,tapa blanda,195
+121,Los alemanes ( Premio Alfaguara de novela 2024 ) ,Sergio del Molino,Alfaguara,tapa blanda,389
+122,Romper el círculo (It Ends with Us) ,Colleen Hoover,Planeta,tapa blanda,348
+123,Un animal salvaje ,Joël Dicker,Alfaguara,Multiformato,489
+124,Las mujeres que aman demasiado ,Robin Norwood,Vergara,tapa blanda,369
+125,Si te gusta la oscuridad ,Stephen King,Plaza Janés,tapa blanda,549
+126,El libro de Bill ,Alex Hirsch,Planeta,tapa dura,348
+127,Yo nunca vi televisión ,31 minutos,Planeta Infantil México,tapa blanda,148
+128,Hábitos atómicos TD ,James Clear,Paidós,tapa dura,459
+129,El invencible verano de Liliana ,Cristina Rivera Garza,Literatura Random House,Multiformato,369
+130,¡Gracias! ,Andrés Manuel López Obrador,Planeta México,tapa blanda,298
+131,La autobiografía no autorizada de Tulio Triviño ,31 minutos,Planeta Infantil México,tapa blanda,148
+132,Fisco Agenda 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,356
+133,Este dolor no es mío. Identifica y resuelve los traumas familiares heredados. ,Mark Wolynn,Gaia ediciones,tapa blanda,395
+134,Hábitos atómicos ,James Clear,Paidós,tapa blanda,399
+135,Matemáticas 2. Revuela primaria ,SM de Ediciones,SM,tapa blanda,799
+136,La biblioteca de la medianoche ,Matt Haig,AdN,tapa blanda,361
+137,MEDITACIONES ,Marco Aurelio,Gandhi editores,tapa dura,249
+138,Ya te cargó el retiro ,Eduardo Rosas,Grijalbo,tapa blanda,329
+139,"Dinastías: Dos familias, una nación ",Ramón Alberto Garza,Planeta México,tapa blanda,348
+140,La ciudad y sus muros inciertos ,Haruki Murakami,Tusquets México,Multiformato,398
+141,Un lugar soleado para gente sombría ,Mariana Enriquez,Anagrama Océano,tapa blanda,293
+142,DEJA DE SER TU ,Joe Dispenza,Urano,tapa blanda,370
+144,Las mujeres que aman demasiado ,Robin Norwood,B de bolsillo,Multiformato,299
+145,EL SUTIL ARTE DE QUE TE IMPORTE UN CARAJO 2A. ED. ,Mark Manson,HarperCollins,tapa blanda,222
+146,Relatos de la noche ,Uriel Reyes,Suma,Multiformato,229
+147,Alejandra Pizarnik. Poesía completa ,Alejandra Pizarnik,Lumen,tapa blanda,469
+148,EL DUQUE Y YO: BRIDGERTON 1 ,Julia Quinn,Titania,tapa blanda,340
+149,Romper el círculo (It Ends with Us) (Tie-In) ,Colleen Hoover,Planeta México,tapa blanda,348
+150,Ejercicios Matemáticos 4 ,Varios autores,Larousse,tapa blanda,53
+151,Las cadenas del rey ,Karine Bernal Lobo,Planeta México,tapa blanda,398
+152,El mito de Sísifo ,Albert Camus,Debolsillo,tapa blanda,149
+153,El derechairo que vendió su ferrari ,Jairo Calixto Albarrán,Aguilar,tapa blanda,249
+154,Estrellas De Vainilla ,Aleida Ocegueda,El Naranjo,tapa blanda,122
+155,Cuando no queden más estrellas que contar ,María Martínez,Crossbooks,tapa blanda,398
+156,"Si lo crees, lo creas ",Brian Tracy,Debolsillo,tapa blanda,229
+157,El principito ,Antoine de Saint-Exupéry,Gandhi editores,tapa dura,199
+158,La teoría sintérgica ,Jacobo Grinberg-Zylberbaum,Debolsillo,tapa blanda,139
+159,El pequeño libro de la realidad ,Odin Dupeyron,Disidente,tapa blanda,396
+160,Agenda Mercantil 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,335
+161,Ejercicios Matemáticos 5 ,Varios autores,Larousse,tapa blanda,53
+162,La paleta perfecta para diseño gráfico e ilustración ,Sara Caldas,Promopress,tapa blanda,549
+163,Dios. La ciencia. Las pruebas. ,Michel Yves Bollore,Oceano,tapa blanda,395
+164,LOS SIETE MARIDOS DE EVELYN HUGO ,Taylor Jenkins Reid,Umbriel editores,tapa blanda,395
+165,Cuentos gatunos ,Varios Autores,EDICIONES GANDHI,tapa dura,229
+166,Guía práctica para el examen de ingreso a la universidad ,Ana Luisa Montañez Colín,Pearson,tapa blanda,780
+167,Sapiens - SAPIENS ,Yuval Noah Harari,Debolsillo,tapa blanda,339
+168,La paciente silenciosa ,Alex Michaelides,Alfaguara,Multiformato,439
+169,Ejercicios de Ortografía 3 primaria ,Varios autores,Larousse,tapa blanda,52
+170,Terapia para llevar ,Ana Pérez,Montena,tapa blanda,289
+171,No te creas todo lo que piensas ,Joseph Nguyen,Aguilar Fontanar,Multiformato,199
+172,SEDUCIENDO A MR: BRIDGERTON : BRIDGERTON 4 ,Julia Quinn,Titania,tapa blanda,345
+173,La reina de espadas ,Jazmina Barrera,Lumen,Multiformato,319
+174,Mis días en la librería Morisaki ,Satoshi Yagisawa,Plata,tapa blanda,195
+175,Los alemanes ( Premio Alfaguara de novela 2024 ) ,Sergio del Molino,Alfaguara,tapa blanda,389
+176,Romper el círculo (It Ends with Us) ,Colleen Hoover,Planeta,tapa blanda,348
+177,Un animal salvaje ,Joël Dicker,Alfaguara,Multiformato,489
+178,Las mujeres que aman demasiado ,Robin Norwood,Vergara,tapa blanda,369
+179,Si te gusta la oscuridad ,Stephen King,Plaza Janés,tapa blanda,549
+180,Balún-Canán ,Rosario Castellanos,Fondo De Cultura Economica,Multiformato,74
+181,Ejercicios Matemáticos 2 ,Varios autores,Larousse,tapa blanda,53
+182,El Mundo de Sofía (pocket) ,Jostein Gaarder,Grupo Editorial Patria,tapa blanda,269
+183,Ejercicios de Caligrafía 1 de primaria ,Varios autores,Larousse,tapa blanda,46
+184,Los recuerdos del porvenir ,Elena Garro,Alfaguara,Multiformato,429
+185,El infinito en un junco ,Irene Vallejo,Debolsillo,tapa blanda,429
+186,Cumbres Borrascosas ,Emily Brontë,Alianza editorial,tapa blanda,285
+187,El gato que decía adiós ,Hiro Arikawa,Lumen,tapa blanda,289
+188,"TD Recupera tu mente, reconquista tu vida ",Marian Rojas Estapé,Espasa México,tapa blanda,428
+189,Ejercicios de Ortografía 1 primaria ,Varios autores,Larousse,tapa blanda,52
+190,100 lecciones de neurociencia ,Eduardo Calixto,Aguilar,tapa blanda,369
+191,El principito ,Antoine de Saint-Exupéry,Gandhi editores,tapa blanda,99
+192,Los demonios del Edén ,Lydia Cacho,Debolsillo,tapa blanda,351
+193,Fabricante de lágrimas ,Erin Doom,Montena,tapa blanda,479
+194,Una corte de llamas plateadas ,Sarah J. Maas,Booket México,tapa blanda,298
+195,El libro de Bill ,Alex Hirsch,Planeta,tapa dura,348
+196,Yo nunca vi televisión ,31 minutos,Planeta Infantil México,tapa blanda,148
+197,Hábitos atómicos TD ,James Clear,Paidós,tapa dura,459
+198,El invencible verano de Liliana ,Cristina Rivera Garza,Literatura Random House,Multiformato,369
+199,¡Gracias! ,Andrés Manuel López Obrador,Planeta México,tapa blanda,298
+200,La autobiografía no autorizada de Tulio Triviño ,31 minutos,Planeta Infantil México,tapa blanda,148
+201,Fisco Agenda 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,356
+202,Este dolor no es mío. Identifica y resuelve los traumas familiares heredados. ,Mark Wolynn,Gaia ediciones,tapa blanda,395
+203,Hábitos atómicos ,James Clear,Paidós,tapa blanda,399
+204,Matemáticas 2. Revuela primaria ,SM de Ediciones,SM,tapa blanda,799
+205,La biblioteca de la medianoche ,Matt Haig,AdN,tapa blanda,361
+206,MEDITACIONES ,Marco Aurelio,Gandhi editores,tapa dura,249
+207,Ya te cargó el retiro ,Eduardo Rosas,Grijalbo,tapa blanda,329
+208,"Dinastías: Dos familias, una nación ",Ramón Alberto Garza,Planeta México,tapa blanda,348
+209,La ciudad y sus muros inciertos ,Haruki Murakami,Tusquets México,Multiformato,398
+210,Un lugar soleado para gente sombría ,Mariana Enriquez,Anagrama Océano,tapa blanda,293
+211,DEJA DE SER TU ,Joe Dispenza,Urano,tapa blanda,370
+213,Las mujeres que aman demasiado ,Robin Norwood,B de bolsillo,Multiformato,299
+214,EL SUTIL ARTE DE QUE TE IMPORTE UN CARAJO 2A. ED. ,Mark Manson,HarperCollins,tapa blanda,222
+215,Relatos de la noche ,Uriel Reyes,Suma,Multiformato,229
+216,Alejandra Pizarnik. Poesía completa ,Alejandra Pizarnik,Lumen,tapa blanda,469
+217,EL DUQUE Y YO: BRIDGERTON 1 ,Julia Quinn,Titania,tapa blanda,340
+218,Romper el círculo (It Ends with Us) (Tie-In) ,Colleen Hoover,Planeta México,tapa blanda,348
+219,Ejercicios Matemáticos 4 ,Varios autores,Larousse,tapa blanda,53
+220,Las cadenas del rey ,Karine Bernal Lobo,Planeta México,tapa blanda,398
+221,El mito de Sísifo ,Albert Camus,Debolsillo,tapa blanda,149
+222,El derechairo que vendió su ferrari ,Jairo Calixto Albarrán,Aguilar,tapa blanda,249
+223,Estrellas De Vainilla ,Aleida Ocegueda,El Naranjo,tapa blanda,122
+224,Cuando no queden más estrellas que contar ,María Martínez,Crossbooks,tapa blanda,398
+225,"Si lo crees, lo creas ",Brian Tracy,Debolsillo,tapa blanda,229
+226,El principito ,Antoine de Saint-Exupéry,Gandhi editores,tapa dura,199
+227,La teoría sintérgica ,Jacobo Grinberg-Zylberbaum,Debolsillo,tapa blanda,139
+228,El pequeño libro de la realidad ,Odin Dupeyron,Disidente,tapa blanda,396
+229,Agenda Mercantil 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,335
+230,Ejercicios Matemáticos 5 ,Varios autores,Larousse,tapa blanda,53
+231,La paleta perfecta para diseño gráfico e ilustración ,Sara Caldas,Promopress,tapa blanda,549
+232,Dios. La ciencia. Las pruebas. ,Michel Yves Bollore,Oceano,tapa blanda,395
+233,LOS SIETE MARIDOS DE EVELYN HUGO ,Taylor Jenkins Reid,Umbriel editores,tapa blanda,395
+234,Cuentos gatunos ,Varios Autores,EDICIONES GANDHI,tapa dura,229
+235,Guía práctica para el examen de ingreso a la universidad ,Ana Luisa Montañez Colín,Pearson,tapa blanda,780
+236,Sapiens - SAPIENS ,Yuval Noah Harari,Debolsillo,tapa blanda,339
+237,La paciente silenciosa ,Alex Michaelides,Alfaguara,Multiformato,439
+238,Ejercicios de Ortografía 3 primaria ,Varios autores,Larousse,tapa blanda,52
+239,Terapia para llevar ,Ana Pérez,Montena,tapa blanda,289
+240,No te creas todo lo que piensas ,Joseph Nguyen,Aguilar Fontanar,Multiformato,199
+241,SEDUCIENDO A MR: BRIDGERTON : BRIDGERTON 4 ,Julia Quinn,Titania,tapa blanda,345
+242,La reina de espadas ,Jazmina Barrera,Lumen,Multiformato,319
+243,Mis días en la librería Morisaki ,Satoshi Yagisawa,Plata,tapa blanda,195
+244,Los alemanes ( Premio Alfaguara de novela 2024 ) ,Sergio del Molino,Alfaguara,tapa blanda,389
+245,Romper el círculo (It Ends with Us) ,Colleen Hoover,Planeta,tapa blanda,348
+246,Un animal salvaje ,Joël Dicker,Alfaguara,Multiformato,489
+247,Las mujeres que aman demasiado ,Robin Norwood,Vergara,tapa blanda,369
+248,Si te gusta la oscuridad ,Stephen King,Plaza Janés,tapa blanda,549
+249,Balún-Canán ,Rosario Castellanos,Fondo De Cultura Economica,Multiformato,74
+250,Ejercicios Matemáticos 2 ,Varios autores,Larousse,tapa blanda,53
+251,El Mundo de Sofía (pocket) ,Jostein Gaarder,Grupo Editorial Patria,tapa blanda,269
+252,Ejercicios de Caligrafía 1 de primaria ,Varios autores,Larousse,tapa blanda,46
+253,Los recuerdos del porvenir ,Elena Garro,Alfaguara,Multiformato,429
+254,El infinito en un junco ,Irene Vallejo,Debolsillo,tapa blanda,429
+255,Cumbres Borrascosas ,Emily Brontë,Alianza editorial,tapa blanda,285
+256,El gato que decía adiós ,Hiro Arikawa,Lumen,tapa blanda,289
+257,"TD Recupera tu mente, reconquista tu vida ",Marian Rojas Estapé,Espasa México,tapa blanda,428
+258,Ejercicios de Ortografía 1 primaria ,Varios autores,Larousse,tapa blanda,52
+259,100 lecciones de neurociencia ,Eduardo Calixto,Aguilar,tapa blanda,369
+260,El principito ,Antoine de Saint-Exupéry,Gandhi editores,tapa blanda,99
+261,Los demonios del Edén ,Lydia Cacho,Debolsillo,tapa blanda,351
+262,Fabricante de lágrimas ,Erin Doom,Montena,tapa blanda,479
+263,Una corte de llamas plateadas ,Sarah J. Maas,Booket México,tapa blanda,298
+264,LIBRO MAGNETICO BLUEY ,NOVELTY,NOVELTY EDICIONES,tapa dura,197
+265,El caballero de la armadura oxidada (N.E.) ,Robert Fisher,Obelisco,tapa blanda,195
+266,Fuego y Sangre ( Canción de hielo y fuego 0 ) ,George R.R Martin,Plaza Janés,tapa blanda,619
+267,Ejercicios de Caligrafía 3 de primaria ,Varios autores,Larousse,tapa blanda,46
+268,Una corte de hielo y estrellas ,Sarah J. Maas,Booket México,tapa blanda,228
+269,EL VIZCONDE QUE ME AMO : BRIDGERTON 2 ,Julia Quinn,Titania,tapa blanda,340
+270,Trece latas de atún ,Amandititita,Debolsillo,tapa blanda,179
+271,EL ARTE DE LA GUERRA ,Sun Tzu,Gandhi editores,tapa dura,249
+272,Los sueños de mis fantasmas ,Irene Vallejo Moreu,unam,tapa blanda,38
+273,"República, Parménides ",Platón,Gredos,tapa dura,99
+274,AUTOBIOGRAFIA DE UN YOGUI ,Paramahansa Yogananda,Self-realization fellowship,tapa blanda,250
+275,Los puntos sobre las íes ,Maria Amparo Casar,Debate,tapa blanda,299
+276,La bailarina de Auschwitz ,Edith Eger,Booket,tapa blanda,298
+277,Los vivos ,Emiliano Monge,Random House,Multiformato,299
+278,Fourth Wing ,Rebecca Yarros,Abacus,tapa blanda,279
+279,El libro de Bill ,Alex Hirsch,Planeta,tapa dura,348
+280,Yo nunca vi televisión ,31 minutos,Planeta Infantil México,tapa blanda,148
+281,Hábitos atómicos TD ,James Clear,Paidós,tapa dura,459
+282,El invencible verano de Liliana ,Cristina Rivera Garza,Literatura Random House,Multiformato,369
+283,¡Gracias! ,Andrés Manuel López Obrador,Planeta México,tapa blanda,298
+284,La autobiografía no autorizada de Tulio Triviño ,31 minutos,Planeta Infantil México,tapa blanda,148
+285,Fisco Agenda 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,356
+286,Este dolor no es mío. Identifica y resuelve los traumas familiares heredados. ,Mark Wolynn,Gaia ediciones,tapa blanda,395
+287,Hábitos atómicos ,James Clear,Paidós,tapa blanda,399
+288,Matemáticas 2. Revuela primaria ,SM de Ediciones,SM,tapa blanda,799
+289,La biblioteca de la medianoche ,Matt Haig,AdN,tapa blanda,361
+290,MEDITACIONES ,Marco Aurelio,Gandhi editores,tapa dura,249
+291,Ya te cargó el retiro ,Eduardo Rosas,Grijalbo,tapa blanda,329
+292,"Dinastías: Dos familias, una nación ",Ramón Alberto Garza,Planeta México,tapa blanda,348
+293,La ciudad y sus muros inciertos ,Haruki Murakami,Tusquets México,Multiformato,398
+294,Un lugar soleado para gente sombría ,Mariana Enriquez,Anagrama Océano,tapa blanda,293
+295,DEJA DE SER TU ,Joe Dispenza,Urano,tapa blanda,370
+297,Las mujeres que aman demasiado ,Robin Norwood,B de bolsillo,Multiformato,299
+298,EL SUTIL ARTE DE QUE TE IMPORTE UN CARAJO 2A. ED. ,Mark Manson,HarperCollins,tapa blanda,222
+299,Relatos de la noche ,Uriel Reyes,Suma,Multiformato,229
+300,Alejandra Pizarnik. Poesía completa ,Alejandra Pizarnik,Lumen,tapa blanda,469
+301,EL DUQUE Y YO: BRIDGERTON 1 ,Julia Quinn,Titania,tapa blanda,340
+302,Romper el círculo (It Ends with Us) (Tie-In) ,Colleen Hoover,Planeta México,tapa blanda,348
+303,Ejercicios Matemáticos 4 ,Varios autores,Larousse,tapa blanda,53
+304,Las cadenas del rey ,Karine Bernal Lobo,Planeta México,tapa blanda,398
+305,El mito de Sísifo ,Albert Camus,Debolsillo,tapa blanda,149
+306,El derechairo que vendió su ferrari ,Jairo Calixto Albarrán,Aguilar,tapa blanda,249
+307,Estrellas De Vainilla ,Aleida Ocegueda,El Naranjo,tapa blanda,122
+308,Cuando no queden más estrellas que contar ,María Martínez,Crossbooks,tapa blanda,398
+309,"Si lo crees, lo creas ",Brian Tracy,Debolsillo,tapa blanda,229
+310,El principito ,Antoine de Saint-Exupéry,Gandhi editores,tapa dura,199
+311,La teoría sintérgica ,Jacobo Grinberg-Zylberbaum,Debolsillo,tapa blanda,139
+312,El pequeño libro de la realidad ,Odin Dupeyron,Disidente,tapa blanda,396
+313,Agenda Mercantil 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,335
+314,Ejercicios Matemáticos 5 ,Varios autores,Larousse,tapa blanda,53
+315,La paleta perfecta para diseño gráfico e ilustración ,Sara Caldas,Promopress,tapa blanda,549
+316,Dios. La ciencia. Las pruebas. ,Michel Yves Bollore,Oceano,tapa blanda,395
+317,LOS SIETE MARIDOS DE EVELYN HUGO ,Taylor Jenkins Reid,Umbriel editores,tapa blanda,395
+318,Cuentos gatunos ,Varios Autores,EDICIONES GANDHI,tapa dura,229
+319,Guía práctica para el examen de ingreso a la universidad ,Ana Luisa Montañez Colín,Pearson,tapa blanda,780
+320,Sapiens - SAPIENS ,Yuval Noah Harari,Debolsillo,tapa blanda,339
+321,La paciente silenciosa ,Alex Michaelides,Alfaguara,Multiformato,439
+322,Ejercicios de Ortografía 3 primaria ,Varios autores,Larousse,tapa blanda,52
+323,Terapia para llevar ,Ana Pérez,Montena,tapa blanda,289
+324,No te creas todo lo que piensas ,Joseph Nguyen,Aguilar Fontanar,Multiformato,199
+325,SEDUCIENDO A MR: BRIDGERTON : BRIDGERTON 4 ,Julia Quinn,Titania,tapa blanda,345
+326,La reina de espadas ,Jazmina Barrera,Lumen,Multiformato,319
+327,Mis días en la librería Morisaki ,Satoshi Yagisawa,Plata,tapa blanda,195
+328,Los alemanes ( Premio Alfaguara de novela 2024 ) ,Sergio del Molino,Alfaguara,tapa blanda,389
+329,Romper el círculo (It Ends with Us) ,Colleen Hoover,Planeta,tapa blanda,348
+330,Un animal salvaje ,Joël Dicker,Alfaguara,Multiformato,489
+331,Las mujeres que aman demasiado ,Robin Norwood,Vergara,tapa blanda,369
+332,Si te gusta la oscuridad ,Stephen King,Plaza Janés,tapa blanda,549
+333,Balún-Canán ,Rosario Castellanos,Fondo De Cultura Economica,Multiformato,74
+334,Ejercicios Matemáticos 2 ,Varios autores,Larousse,tapa blanda,53
+335,El Mundo de Sofía (pocket) ,Jostein Gaarder,Grupo Editorial Patria,tapa blanda,269
+336,Ejercicios de Caligrafía 1 de primaria ,Varios autores,Larousse,tapa blanda,46
+337,Los recuerdos del porvenir ,Elena Garro,Alfaguara,Multiformato,429
+338,El infinito en un junco ,Irene Vallejo,Debolsillo,tapa blanda,429
+339,Cumbres Borrascosas ,Emily Brontë,Alianza editorial,tapa blanda,285
+340,El gato que decía adiós ,Hiro Arikawa,Lumen,tapa blanda,289
+341,"TD Recupera tu mente, reconquista tu vida ",Marian Rojas Estapé,Espasa México,tapa blanda,428
+342,Ejercicios de Ortografía 1 primaria ,Varios autores,Larousse,tapa blanda,52
+343,100 lecciones de neurociencia ,Eduardo Calixto,Aguilar,tapa blanda,369
+344,El principito ,Antoine de Saint-Exupéry,Gandhi editores,tapa blanda,99
+345,Los demonios del Edén ,Lydia Cacho,Debolsillo,tapa blanda,351
+346,Fabricante de lágrimas ,Erin Doom,Montena,tapa blanda,479
+347,Una corte de llamas plateadas ,Sarah J. Maas,Booket México,tapa blanda,298
+348,LIBRO MAGNETICO BLUEY ,NOVELTY,NOVELTY EDICIONES,tapa dura,197
+349,El caballero de la armadura oxidada (N.E.) ,Robert Fisher,Obelisco,tapa blanda,195
+350,Fuego y Sangre ( Canción de hielo y fuego 0 ) ,George R.R Martin,Plaza Janés,tapa blanda,619
+351,Ejercicios de Caligrafía 3 de primaria ,Varios autores,Larousse,tapa blanda,46
+352,Una corte de hielo y estrellas ,Sarah J. Maas,Booket México,tapa blanda,228
+353,EL VIZCONDE QUE ME AMO : BRIDGERTON 2 ,Julia Quinn,Titania,tapa blanda,340
+354,Trece latas de atún ,Amandititita,Debolsillo,tapa blanda,179
+355,EL ARTE DE LA GUERRA ,Sun Tzu,Gandhi editores,tapa dura,249
+356,Los sueños de mis fantasmas ,Irene Vallejo Moreu,unam,tapa blanda,38
+357,"República, Parménides ",Platón,Gredos,tapa dura,99
+358,AUTOBIOGRAFIA DE UN YOGUI ,Paramahansa Yogananda,Self-realization fellowship,tapa blanda,250
+359,Los puntos sobre las íes ,Maria Amparo Casar,Debate,tapa blanda,299
+360,La bailarina de Auschwitz ,Edith Eger,Booket,tapa blanda,298
+361,Los vivos ,Emiliano Monge,Random House,Multiformato,299
+362,Fourth Wing ,Rebecca Yarros,Abacus,tapa blanda,279
+363,100 genios del balón ,Alberto Lati,Plan B,Multiformato,399
+364,Encuentra las palabras 1 con solapas ,Todolibro Ediciones,Todolibro Ediciones,tapa dura,50
+365,Ejercicios de Ortografía 4 primaria ,Varios autores,Larousse,tapa blanda,52
+366,TE DOY MI CORAZON : BRIDGERTON 3 ,Julia Quinn,Titania,tapa blanda,345
+367,Twisted 2. Twisted Games ,Ana Huang,Crossbooks,Multiformato,378
+368,Powerless ( Saga Powerless 1 ) ,Lauren Roberts,Alfaguara Juvenil,tapa blanda,499
+369,Amor Liquido. Acerca De La Fragilidad De Los Vinculos Humanos: Acerca De La Fragilidad De Los Vincul ,Zygmunt Bauman,Fondo De Cultura Economica,tapa blanda,135
+370,Érase una vez un corazón roto ,Stephanie Garber,Puck,tapa blanda,360
+371,Invasión silenciosa ,Jenaro Martínez López,Hachette Literatura,tapa blanda,379
+372,Mentalidad mamba ,Kobe Bryant,Planeta,tapa blanda,388
+373,Los ojos de Mona ,Thomas Schlesser,Lumen,tapa blanda,449
+374,Cuchillo ,Salman Rushdie,Random House,tapa blanda,249
+375,El enigma de la habitación 622 ,Joël Dicker,Alfaguara,tapa blanda,219
+376,El color de las cosas invisibles ,Andrea Longarela,Crossbooks México,tapa blanda,298
+377,Ejercicios de Caligrafía 4 de primaria ,Varios autores,Larousse,tapa blanda,46
+378,El libro de Bill ,Alex Hirsch,Planeta,tapa dura,348
+379,Yo nunca vi televisión ,31 minutos,Planeta Infantil México,tapa blanda,148
+380,Hábitos atómicos TD ,James Clear,Paidós,tapa dura,459
+381,El invencible verano de Liliana ,Cristina Rivera Garza,Literatura Random House,Multiformato,369
+382,¡Gracias! ,Andrés Manuel López Obrador,Planeta México,tapa blanda,298
+383,La autobiografía no autorizada de Tulio Triviño ,31 minutos,Planeta Infantil México,tapa blanda,148
+384,Fisco Agenda 2024 ,Ediciones Fiscales ISEF,Ediciones fiscales ISEF,tapa blanda,356
+385,Este dolor no es mío. Identifica y resuelve los traumas familiares heredados. ,Mark Wolynn,Gaia ediciones,tapa blanda,395
+386,Hábitos atómicos ,James Clear,Paidós,tapa blanda,399
+387,Matemáticas 2. Revuela primaria ,SM de Ediciones,SM,tapa blanda,799
+388,La biblioteca de la medianoche ,Matt Haig,AdN,tapa blanda,361
+389,MEDITACIONES ,Marco Aurelio,Gandhi editores,tapa dura,249
+390,Ya te cargó el retiro ,Eduardo Rosas,Grijalbo,tapa blanda,329
+391,"Dinastías: Dos familias, una nación ",Ramón Alberto Garza,Planeta México,tapa blanda,348
+392,La ciudad y sus muros inciertos ,Haruki Murakami,Tusquets México,Multiformato,398
+393,Un lugar soleado para gente sombría ,Mariana Enriquez,Anagrama Océano,tapa blanda,293
+394,DEJA DE SER TU ,Joe Dispenza,Urano,tapa blanda,370
+396,Las mujeres que aman demasiado ,Robin Norwood,B de bolsillo,Multiformato,299
+397,EL SUTIL ARTE DE QUE TE IMPORTE UN CARAJO 2A. ED. ,Mark Manson,HarperCollins,tapa blanda,222
+398,Relatos de la noche ,Uriel Reyes,Suma,Multiformato,229
+399,Alejandra Pizarnik. Poesía completa ,Alejandra Pizarnik,Lumen,tapa blanda,469
