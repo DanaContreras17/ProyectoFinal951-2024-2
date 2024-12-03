@@ -51,12 +51,12 @@ ProyectoFinal951-2024-2
 - BaseDeDatos.
   
 - Datasets.
-  - Libros_limpios.csv (archivo predeterminado).
-  - Conexion_mysql.py (archivo de base).
-  - importacion_csv.py (archivo para pruebas).
-  - insercion_db.py (codigo para la insercion a la BD).
-  - libros_db.sql (BD).
-  - Pruebas_db.sql (pruebas en mysql).
+- Libros_limpios.csv (archivo predeterminado).
+- Conexion_mysql.py (archivo de base).
+- importacion_csv.py (archivo para pruebas).
+- insercion_db.py (codigo para la insercion a la BD).
+- libros_db.sql (BD).
+- Pruebas_db.sql (pruebas en mysql).
 
 Dashboards
 
@@ -65,18 +65,18 @@ Dashboards
 - Custom.css (archivo con los estilos personalizados para los dashboards).
 - Imagenes (directorio en donde se encuentran las imagenes que usamos para el Dash.
 - Datasets.
-  - libros_limpios.csv (archivo predeterminado).
-  - dash1_sql.py
-  - dash2_sql.py
-  - dash3.py
-  - menu_libros.py (codigo principal para correr el dash y visualizar los dashboards).
-  - welcome_libros.py (codigo para el inicio o bienvenida del dash).
+- libros_limpios.csv (archivo predeterminado).
+- dash1_sql.py
+- dash2_sql.py
+- dash3.py
+- menu_libros.py (codigo principal para correr el dash y visualizar los dashboards).
+- welcome_libros.py (codigo para el inicio o bienvenida del dash).
  
 DataCleaning
 
 - Datasets.
-  - libros.csv (archivo predeterminado).
-  - DataCleaning.py (codigo para la limpieza de datos).
+- libros.csv (archivo predeterminado).
+- DataCleaning.py (codigo para la limpieza de datos).
 
 DataFrames
 
@@ -86,10 +86,10 @@ DataFrames
 WebScraping
 
 - Datasets.
-  - libros.csv (archivo predeterminado)
-  - libros.py (codigo para realizar el web scraping)
-  - main.py (archivo principal que conecta todos los módulos y permite interactuar con el proyecto a través de un menú.)
-  - README.md (archivo de documentacion).
+- libros.csv (archivo predeterminado)
+- libros.py (codigo para realizar el web scraping)
+- main.py (archivo principal que conecta todos los módulos y permite interactuar con el proyecto a través de un menú.)
+- README.md (archivo de documentacion).
 
 ## **Problemas conocidos y recomendaciones**
 
